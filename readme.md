@@ -17,3 +17,5 @@ Updated readme.md in origin/master on Github to try rebase with conflict
 Update file readme.md in local master to try rebase with conflict.
 
 Update file readme.md in origin/master on github to try merge with conflict
+
+Update readme.md in origin/master to try merge tool
